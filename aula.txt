@@ -1,0 +1,3 @@
+Tag = "<" abrir tag = "<html> fechar "</html>
+Extenção = ".html" - ".css" - ".js"
+Arquivo sempre incia com index.html
